@@ -1,1 +1,20 @@
+.cardview {
+  height: 300px;
+}
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:200px;
+   width:100%;
+   background:#999;
+   padding: 30px;
+   padding-bottom: 60px;
+   opacity: 0.5;
+}
+#currentPicture {
+  height: 120px;
+  width: 119px;
+}
 
